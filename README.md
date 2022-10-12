@@ -8,6 +8,7 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 - Thinking about applying to dev positions but feeling i'm not good enough, maybe i apply after another 6 months .. hell yeah 
 - Feeling like an imposter, fake it untill you make it comes to the rescue .. hell yeah 
 - Writting a blog post about something new you're excited about and no one will read that .. hell yeah
+- Questioning your choices in life after running into an annoying error/bug .. hell yeah
 
 
 
@@ -23,3 +24,4 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 ## Sign in 
 - 02 October 22 
 - 03 October 22 
+- 12 October 22 
