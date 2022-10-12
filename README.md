@@ -20,6 +20,11 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 ## Ideas 
 - why not making this a website ? huh
 
+## Challenges
+1- Never let pass more than 2 days without any github activity (commits, issues, pull request, etc)
+2- Never let one pass more than one day without writting atleast some lines of code
+
+
 
 ## Sign in 
 - 02 October 22 
