@@ -23,7 +23,7 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 
 ## Challenges
 1.  Never let pass more than 2 days without any github activity (commits, issues, pull request, etc)
-    - Lost on 20 October 22 : starting
+    - Lost on 20 October 22 : starting over
 2.  Never let one pass more than one day without writting atleast some lines of code
     - Lost on 19 October 22 : starting over
 
