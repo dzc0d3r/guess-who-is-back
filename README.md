@@ -15,14 +15,17 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 ## What's next? What should i do ? 
 - Get back on track 
 - A ~~f****ing~~ protfolio for a start.
+     
 
 
 ## Ideas 
-- why not making this a website ? huh
+- why not making this a website ? 
 
 ## Challenges
 1.  Never let pass more than 2 days without any github activity (commits, issues, pull request, etc)
+    - Lost on 20 October 22 : starting
 2.  Never let one pass more than one day without writting atleast some lines of code
+    - Lost on 19 October 22 : starting over
 
 
 
@@ -31,3 +34,4 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 - 03 October 22 
 - 12 October 22 
 - 16 October 22
+- 21 October 22 
