@@ -15,6 +15,7 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 ## What's next? What should i do ? 
 - Get back on track 
 - A ~~f****ing~~ protfolio for a start.
+- Learning JavaScript starting with [30 Day Vanilla JS Coding Challenge ](https://javascript30.com/)
      
 
 
@@ -39,3 +40,4 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 - 21 October 22 
 - 22 October 22
 - 28 October 22 
+- 29 October 22
