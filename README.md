@@ -26,9 +26,11 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 1.  Never let pass more than 2 days without any github activity (commits, issues, pull request, etc)
     - Lost on 20 October 22 : starting over
     - Lost again on 25 October 22 .. starting over ! 
+    - Lost again on 2 November 22 .. man i hate this Starting Over again 
 2.  Never let one pass more than one day without writting atleast some lines of code
-    - Lost on 19 October 22 : starting over
+     - Lost on 19 October 22 : starting over
      - Lost again on 25 October 22 .. starting over ! 
+     - Lost again on 2 November 22 .. i hate this Starting Over again
 
 
 
@@ -42,3 +44,4 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 - 28 October 22 
 - 29 October 22
 - 30 October 22 
+- 11 November 22 
