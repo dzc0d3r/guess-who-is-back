@@ -1,4 +1,5 @@
-## Life is Unfair
+
+fe is Unfair
 Life is unfair, hard, boring .. it's get even more boring when i can't code
 Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. meaning i need to work, trying to get money doing things i don't like. Exchanging precious hours for pieces of paper when i want deeply to spend those hours learning something new, staring at the teminal watching all those libs getting installed, introducing new bugs, bebugging, fixing one error to end up with more errors to fix later, switching to a new GNU/Linux Distro every week, watching anime using terminal, starting a couple of projects a month then never finishing one of them, buying an Arduino Uno R3 , a raspberry pi then never build a project yet it's still on your TODOS, coding a ```hello world``` in ```Brainfuck``` .. f ~f***~
 ## ~~F**ck It~~
@@ -45,3 +46,4 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 - 29 October 22
 - 30 October 22 
 - 11 November 22 
+- 13 November 22
