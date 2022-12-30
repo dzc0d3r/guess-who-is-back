@@ -28,10 +28,12 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
     - Lost on 20 October 22 : starting over
     - Lost again on 25 October 22 .. starting over ! 
     - Lost again on 2 November 22 .. man i hate this Starting Over again 
+    - Lost again on 8 December 22 .. more than 20 days (i was sick)
 2.  Never let one pass more than one day without writting atleast some lines of code
      - Lost on 19 October 22 : starting over
      - Lost again on 25 October 22 .. starting over ! 
      - Lost again on 2 November 22 .. i hate this Starting Over again
+     - Lost again on 9 December 22 .. more than 20 days (i was sick)
 
 
 
@@ -60,3 +62,4 @@ Simply because i need to pay the ~~f***ing~~ bills and put meals on the table.. 
 - 29 November 22
 - 02 December 22
 - 05 December 22
+- 30 December 22 
